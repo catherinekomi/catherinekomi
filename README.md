@@ -1,22 +1,30 @@
 ### Hi there 👋
+<h2>I'm Catherine<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/j4kv3klxltIVnu7ego/giphy.gif" width="200">
 
-<!--
-**cherryrazzles/cherryrazzles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Software Enginner</em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: Catherine Komi](https://img.shields.io/badge/-CatherineKomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherine-komi/)](https://www.linkedin.com/in/catherine-komi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Web3 + Blockchain + Solidity
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-blueviolet?style=flat-square&link=https://www.catherinekomi.com/)](https://www.catherinekomi.com/)
 
+### A little more about me...  
 
-I'm Catherine Komi, Front End Engineer.
+```javascript
+const catherine = {
+  pronouns: "she" | "her",
+  languages: [Javascript, HTML, CSS],
+  frontend: [React, JQuery, Bootstrap, Tailwind],
+  backend: [Nodejs, Express, SQL, MongoDB, Solidity],
+  technology: [Git, Heroku, NPM],
+  
+  challenge: "I'm learning Web3, Solidity, Blockchain in 2022"
+}
+ 
+
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 |T|h|i|n|g|s||T|h|a|t||I||❤️|:|
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
