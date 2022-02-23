@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Alex Martin, Holistic Devsigner.
+I'm Catherine Komi, Front End Engineer.
 
-
-Until then, here's my favorite (totally made up) Einstein quote:
-« Colors, shapes and words are the runes of our modern world. Arranged in certain ways, they can help our creations shine through the noise! »
 
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
@@ -34,5 +31,5 @@ Until then, here's my favorite (totally made up) Einstein quote:
 |`A`| | |`O`| | | | | | | |
 |`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
 |`I`| | |`Y`| | |`E`| | | | |
-|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/alexmartinfr/)| |
+|`S`| | | | | |`M`| | |[📸]| |
 |`M`| | | | | | | | | | |
