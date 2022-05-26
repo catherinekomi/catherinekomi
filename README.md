@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>I'm Catherine<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"></h2>
+<h2>I'm Catherine<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/j4kv3klxltIVnu7ego/giphy.gif" width="200">
 
 <p><em>Frontend Enginner</em></p>
