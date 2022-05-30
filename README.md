@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2>I'm Catherine<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40"></h2>
-<img align='right' src="https://media.giphy.com/media/j4kv3klxltIVnu7ego/giphy.gif" width="200">
+
 
 <p><em>Frontend Enginner</em></p>
 
@@ -9,6 +9,7 @@
 [![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-blueviolet?style=flat-square&link=https://www.catherinekomi.com/)](https://www.catherinekomi.com/)
 
 ### A little more about me...  
+<img align='right' src="https://media.giphy.com/media/j4kv3klxltIVnu7ego/giphy.gif" width="200">
 
 ```javascript
 const catherine = {
