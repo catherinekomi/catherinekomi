@@ -12,7 +12,8 @@
 <img align='right' src="https://media.giphy.com/media/j4kv3klxltIVnu7ego/giphy.gif" width="200">
 
 ```javascript
-const catherine = {
+const catherine = [
+{
   pronouns: "she" | "her",
   languages: [Javascript, HTML, CSS],
   frontend: [React, JQuery, Bootstrap, Tailwind],
@@ -20,7 +21,8 @@ const catherine = {
   technology: [Git, Heroku, NPM],
   
   challenge: "I'm learning Web3, Solidity, Blockchain in 2022"
-}
+ }
+]
  
 
 ```
