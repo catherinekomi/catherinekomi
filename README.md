@@ -2,7 +2,7 @@
 <h2>I'm Catherine<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40"></h2>
 
 
-<p><em>Frontend Enginner</em></p>
+<p><em>Software Dev Enginer</em></p>
 
 [![Linkedin: Catherine Komi](https://img.shields.io/badge/-CatherineKomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherine-komi/)](https://www.linkedin.com/in/catherine-komi/)
 
