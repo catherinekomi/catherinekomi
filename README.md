@@ -18,9 +18,7 @@ const catherine = [
   languages: [Javascript, HTML, CSS],
   frontend: [React, JQuery, Bootstrap, Tailwind],
   backend: [Nodejs, Express, SQL, MongoDB, Solidity],
-  technology: [Git, Heroku, NPM],
-  
-  challenge: "I'm learning Web3, Solidity, Blockchain in 2022"
+  technology: [Git, Heroku, NPM]
  }
 ]
  
