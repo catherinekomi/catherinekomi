@@ -14,7 +14,6 @@
 ```javascript
 const catherine = [
 {
-  pronouns: "she" | "her",
   languages: [Javascript, HTML, CSS],
   frontend: [React, JQuery, Bootstrap, Tailwind],
   backend: [Nodejs, Express, SQL, MongoDB, Solidity],
