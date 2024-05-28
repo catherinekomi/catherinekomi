@@ -6,7 +6,7 @@
 
 [![Linkedin: Catherine Komi](https://img.shields.io/badge/-CatherineKomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherine-komi/)](https://www.linkedin.com/in/catherine-komi/)
 
-[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-blueviolet?style=flat-square&link=https://www.catherinekomi.com/)](https://www.catherinekomi.com/)
+[![My Website](https://img.shields.io/badge/-My%20Portfolio-blueviolet?style=flat-square&link=https://www.catherinekomi.com/)](https://www.catherinekomi.com/)
 
 ### A little more about me...  
 <img align='right' src="https://media.giphy.com/media/j4kv3klxltIVnu7ego/giphy.gif" width="200">
