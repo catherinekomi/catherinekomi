@@ -11,13 +11,11 @@
 ```javascript
 const catherine = [
 {
-  technology: [Javascript, ES6, Angular, TypeScript, React,
-  Node.js, Redux, Flux, Express.js, jQuery, Bootstrap, Mocha,
-  Chai, Jest, Cypress, Selenium, HTML, CSS, MySQL, NoSQL,
-  MongoDB, Git, Firebase, NPM, WordPress,
-  Next.js, PHP, Amazon AWS, Python],
-  backend: [Nodejs, Express, SQL, MongoDB, Solidity],
-  technology: [Git, Heroku, NPM]
+  frontend: [JavaScript, ES6, TypeScript, React, Angular, Nextjs, jQuery, HTML, CSS, Redux, Flux, Bootstrap],
+  backend: [Nodejs, PHP, Python, AmazonAWS, Heroku, Express, SQL, MongoDB, Solidity, Firebase],
+  testing: [Mocha, Chai, Jest, Cypress, Selenium],
+  tools: [Git, NPM],
+  platforms: [WordPress]
  }
 ]
  
