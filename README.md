@@ -11,8 +11,9 @@
 ```javascript
 const catherine = [
 {
-  languages: [Javascript, HTML, CSS],
-  frontend: [React, JQuery, Bootstrap, Tailwind],
+  technology: [Javascript, ES6, Angular, TypeScript, React, Node.js, Redux, Flux, Express.js, jQuery, Bootstrap,
+Mocha, Chai, Jest, Cypress, Selenium, HTML, CSS, MySQL, NoSQL, MongoDB, Git, Firebase, NPM, WordPress,
+Next.js, PHP, Amazon AWS, Python],
   backend: [Nodejs, Express, SQL, MongoDB, Solidity],
   technology: [Git, Heroku, NPM]
  }
