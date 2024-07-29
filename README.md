@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>I'm Catherine - <p><em>Software Dev Enginer</em></p></h2> 
+<h2>I'm Catherine - <p><em>Software Enginer</em></p></h2> 
 
 [![Linkedin: Catherine Komi](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherine-komi/)](https://www.linkedin.com/in/catherine-komi/)
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
