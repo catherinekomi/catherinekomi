@@ -1,47 +1,29 @@
-### Hi there 👋
-<h2>I'm Catherine - <p><em>Software Enginer</em></p></h2> 
+### Hi, I'm Catherine 
 
-[![Linkedin: Catherine Komi](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherine-komi/)](https://www.linkedin.com/in/catherine-komi/)
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
-&nbsp;&nbsp;&nbsp;
-[![My Website](https://img.shields.io/badge/-My%20Website-blueviolet?style=flat-square&link=https://www.catherinekomi.com/)](https://www.catherinekomi.com/)
+**Frontend Engineer** | React • TypeScript • Node.js
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-komi/)
+[![Website](https://img.shields.io/badge/-Portfolio-2b4618?style=flat-square&logo=google-chrome&logoColor=white)](https://www.catherinekomi.com/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:catherinekomii@gmail.com)
 
-### A little more about me...  
-<img align='right' src="https://media.giphy.com/media/j4kv3klxltIVnu7ego/giphy.gif" width="200">
+### About Me
 
+I build user-facing applications with React and TypeScript. Currently contracting at Yahoo! Sports (brought back for second engagement), shipping components for millions of users across NFL, NBA, MLB, Tennis, and Golf platforms.
+
+I like solving the full spectrum of frontend challenges - component architecture, performance optimization, and making interfaces that actually work well.
+
+**Currently seeking:** Full-time frontend or fullstack role with a strong team working on meaningful projects.
+
+### Tech Stack
 ```javascript
-const catherine = [
-{
-  frontend: [JavaScript, TypeScript, React, Angular, Vue, Nextjs, jQuery, HTML, CSS, Redux, Flux, Bootstrap],
-  backend: [Nodejs, PHP, Python, AmazonAWS, Heroku, Express, SQL, MongoDB, Solidity, Firebase],
-  testing: [Mocha, Chai, Jest, Cypress, Selenium],
-  tools: [Git, NPM],
-  platforms: [WordPress]
- }
-]
- 
-
+const catherine = {
+  frontend: ["React", "TypeScript", "Next.js", "Redux", "Tailwind"],
+  backend: ["Node.js", "Express", "GraphQL", "MongoDB"],
+  tools: ["Git", "AWS", "Jest", "Figma"],
+  currentlyLearning: ["System Design", "Advanced TypeScript Patterns"]
+}
 ```
 
-|T|h|i|n|g|s||T|h|a|t||I||❤️|:|
-| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| | | | | |`P`| | | | | | | | | | |
-| | | | | |`H`| | | | | | | | | | |
-| | | |`B`|`O`|`O`|`K`|`S`| | | | | | | | |
-| | | | | |`T`| | | | | | | | | | |
-| | | |`S`|`N`|`O`|`W`|`B`|`O`|`A`|`R`|`D`|`I`|`N`|`G`| |
-| | | | | |`G`| | | | | | | | | | |
-| | | | | |`R`| | |`H`| | | | | | | |
-|`P`|`R`|`O`|`G`|`R`|`A`|`M`|`M`|`I`|`N`|`G`| | | | | |
-|`S`| | | | |`P`| | |`K`| | | | | | | |
-|`Y`| | | | |`H`| | |`I`| | | | | | | |
-|`C`| | | | |`Y`| | |`N`| | | | | | | |
-|`H`| | | | | | | |`G`| | | | | | | |
-|`O`| | | | | | | | | | | | | | | |
-|`L`|`E`|`A`|`R`|`N`|`I`|`N`|`G`| | | | | | | | |
-|`O`| | | | | | | | | | | | | | | |
-|`G`| | | | | | | | | | | | | | | |
-|`Y`| | | | | | | | | | | | | | | |
+---
 
+💼 Open to full-time opportunities | 📫 catherinekomii@gmail.com
